@@ -1,6 +1,8 @@
 # Google Ads API
 googleads==35.0.0
 
+gunicorn
+
 # Firebase Admin SDK
 firebase-admin==6.5.0
 
