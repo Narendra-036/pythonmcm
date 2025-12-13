@@ -1,0 +1,12 @@
+ad_manager:
+  # Your application name
+  application_name: GAM Child Publisher Monitor
+  
+  # Your network code
+  network_code: '23033612553'
+  
+  # Path to your service account JSON file
+  path_to_private_key_file: config/service-account.json
+  
+  # Delegated account (if using domain-wide delegation)
+  # delegated_account: admin@yourdomain.com

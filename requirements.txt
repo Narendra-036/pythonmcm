@@ -1,0 +1,30 @@
+# Google Ads API
+googleads==35.0.0
+
+# Firebase Admin SDK
+firebase-admin==6.5.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Flask API Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Logging (built-in, but listing for reference)
+# logging - built-in
+
+# Date/Time (built-in)
+# datetime - built-in
+
+# JSON (built-in)
+# json - built-in
+
+# OS (built-in)
+# os - built-in
+
+# Sys (built-in)
+# sys - built-in
